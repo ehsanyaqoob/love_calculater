@@ -113,7 +113,7 @@ class _LoveCalculaterState extends State<LoveCalculater> {
             ),
             TextField(
                 decoration: InputDecoration(
-                  hintText: "your Fname ",
+                  hintText: "your name ",
                   filled: true,
                   fillColor: Colors.pink,
                   border: OutlineInputBorder(
@@ -131,7 +131,7 @@ class _LoveCalculaterState extends State<LoveCalculater> {
             ),
             TextField(
                 decoration: InputDecoration(
-                  hintText: "your Sname ",
+                  hintText: "thier name ",
                   filled: true,
                   fillColor: Colors.pink,
                   border: OutlineInputBorder(
@@ -146,7 +146,7 @@ class _LoveCalculaterState extends State<LoveCalculater> {
             SizedBox(
               height: 20,
             ),
-            Text('Calculate🤙 your with your buddy 🙋‍♂️ '),
+            Text('Calculate🤙 love with your buddy 🙋‍♂️ '),
             SizedBox(
               height: 25,
             ),
